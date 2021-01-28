@@ -1,13 +1,13 @@
 # Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="60px">
-
-### My name is [Aaron Lee](https://aaronjunehee.com)
+<hr />
+## My name is [Aaron Lee](https://aaronjunehee.com)
 
 - 🔭 I’m currently working on improving my [Workout Planning App](https://github.com/aaronjunehee/workout-log)
 - 🌱 I’m currently learning React, Node.js and Mongoose/MongoDB
 - 📫 How to reach me: You can email me at aaronjunehee (at) gmail.com
 - 😄 Pronouns: He/Him
-
-### Languages and Tools 👋
+<br />
+## Languages and Tools 👋
 <img width="35px" src="./icons/html5.png" align="left" alt="HTML5" title="HTML5">
 <img width="35px" src="./icons/css3.png" align="left" alt="CSS3" title="CSS3">
 <img width="35px" src="./icons/sass.png" align="left" alt="SCSS" title="SCSS">
