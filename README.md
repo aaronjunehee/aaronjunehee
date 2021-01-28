@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aaronjunehee?style=social)](https://twitter.com/aaronjunehee)
 [![Linkedin Follow](https://img.shields.io/badge/aaronjunehee-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aaron-lee-0279bb7a/)
-[![GitHub followers](https://img.shields.io/github/followers/aaronjunehee?style=social)(https://github.com/aaronjunehee)]
+[![GitHub followers](https://img.shields.io/github/followers/aaronjunehee?style=social)](https://github.com/aaronjunehee)
 
 
 ## My name is [Aaron Lee](https://aaronjunehee.com)
