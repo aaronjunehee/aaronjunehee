@@ -1,4 +1,4 @@
-### Hello there! <img src="https://media.giphy.com/media/n4Zu1aTIx4ykBl5VrX/giphy.gif" width="60px">
+### Hello there! <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60px">
 
 - 🔭 I’m currently working on improving my [Workout Planning App](https://github.com/aaronjunehee/workout-log)
 - 🌱 I’m currently learning React, Node.js and Mongoose/MongoDB
