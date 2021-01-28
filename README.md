@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/sVzpTO45RCoMB1HRnt/giphy.gif" width="30px">
+# Hello there! <img src="https://media.giphy.com/media/sVzpTO45RCoMB1HRnt/giphy.gif" width="60px"> My name is [Aaron Lee][https://aaronjunehee.com]
 
 - 🔭 I’m currently working on improving my [Workout Planning App](https://github.com/aaronjunehee/workout-log)
 - 🌱 I’m currently learning React, Node.js and Mongoose/MongoDB
