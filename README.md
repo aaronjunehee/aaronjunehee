@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/aaronjunehee?style=social)](https://github.com/aaronjunehee)
 
 
-## My name is [Aaron Lee](https://aaronjunehee.com) and I am a Full Stack Developer
+## My name is [Aaron Lee](https://aaronjunehee.com) and I am a Full Stack Developer 👨🏻‍💻
 
 - 🔭 I’m currently working on improving my [Workout Planning App](https://github.com/aaronjunehee/workout-log)
 - 🌱 I’m currently learning React, Node.js and Mongoose/MongoDB
