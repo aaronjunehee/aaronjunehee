@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="30px">
+# Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="35px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aaronjunehee?style=social)](https://twitter.com/aaronjunehee)
 [![Linkedin Follow](https://img.shields.io/badge/aaronjunehee-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aaron-lee-0279bb7a/)
