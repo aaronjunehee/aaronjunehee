@@ -1,4 +1,4 @@
-# Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="30px">
+# Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="40px">
 
 ## My name is [Aaron Lee](https://aaronjunehee.com)
 
