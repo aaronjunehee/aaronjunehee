@@ -1,6 +1,7 @@
 # Hello there! <img src="https://media.giphy.com/media/CSpPYHESgafhyeo8YJ/giphy.gif" width="40px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aaronjunehee?style=social)](https://twitter.com/aaronjunehee)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aaron-lee-0279bb7a/)
 
 
 ## My name is [Aaron Lee](https://aaronjunehee.com)
